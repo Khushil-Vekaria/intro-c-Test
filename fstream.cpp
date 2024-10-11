@@ -6,10 +6,10 @@ using namespace std;
 
 int main()
 {
-    /*Writing to a file. output.txt file will be created
+    /*Writing to another file. output.txt file will be created
     in the directory of this source file*/
     ofstream outFile("output.txt");
-    outFile << "Writing to a file" << endl;
+    outFile << "Writing to another file" << endl;
     outFile.close();
 
     // Reading from a file

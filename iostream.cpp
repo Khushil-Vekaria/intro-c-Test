@@ -7,5 +7,5 @@ int main()
     cout << "Enter a number : " ;
     cin >> number;
     cout << "You entered : " << + number << endl;
-    cerr << "This is an example of an error message";
+    cerr << "This is an example of how an error message looks like";
 }
