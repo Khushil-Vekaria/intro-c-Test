@@ -11,14 +11,14 @@ int main(){
     switch (opt){
         case 1:
             cout<<"Monday Classes\n...................."<<endl;
-            cout<<"\t1. BBIT 1106: Math for Bissuness computing"<<endl;
+            cout<<"\t1. BBIT 1106: Math for Bussiness computing"<<endl;
             cout<<"\t2. BBIT 1102: Intro to Programming"<<endl;
             break;
             
         case 2:
             cout<<"Tuesday Classes\n..................."<<endl;
-            cout<<"\t2. BBIT 1102: Fundamentals of IT"<<endl;
-            cout<<"\t1. BBIT 1104: Intro to Ethics"<<endl;
+            cout<<"\t1. BBIT 1102: Intro to Programming"<<endl;
+            cout<<"\t2. BBIT 1104: Intro to Ethics"<<endl;
             break;
         
         case 3:
@@ -30,12 +30,12 @@ int main(){
         case 4:
             cout<<"Thursday Classes\n..................."<<endl;
             cout<<"\t1. BBIT 1101: Introduction to Business"<<endl;
-            cout<<"\t2. BBIT 1206: Statistics"<<endl;
+            cout<<"\t2. BBIT 1106: Mathematics"<<endl;
             break;
 
         case 5:
             cout<<"Friday Classes\n..................."<<endl;
-            cout<<"\t1. BBIT 1204: Database systems"<<endl;
+            cout<<"\t1. BBIT 1102: Accounting"<<endl;
             cout<<"\t2. BBIT 1103: Faith and Reason"<<endl;
             break;
         
